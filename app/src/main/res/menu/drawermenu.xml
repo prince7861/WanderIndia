@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+<item android:id="@+id/dbinfo" android:title="Information" android:icon="@drawable/contacus"/>
+    <item android:id="@+id/Search" android:title="Search" android:icon="@drawable/round_search_black_24dp"/>
+    <item android:id="@+id/Places" android:title="Places" android:icon="@drawable/india"/>
+</menu>

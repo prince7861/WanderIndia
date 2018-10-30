@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Wanderindia</string>
+    <string name="open">Open</string>
+    <string name="close">Close</string>
+    <string name="nav_home">Home</string>
+    <string name="nav_recom">Best Places</string>
+    <string name="nav_search">Search</string>
+    <string name="nav_myloc">My Loc</string>
+    <string name="apikey">puxJSnuxI9tt3jRdeBSY647CIP4wavaa</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

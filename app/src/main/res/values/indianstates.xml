@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="india_states">
+        <item>Select State</item>
+        <item sid="0">Andaman and Nicobar Islands</item>
+        <item sid="1">Andhra Pradesh</item>
+        <item sid="2">Arunachal Pradesh</item>
+        <item sid="3">Assam</item>
+        <item sid="4">Bihar</item>
+        <item sid="5">Chandigarh</item>
+        <item sid="6">Chhattisgarh</item>
+        <item sid="7">Dadra and Nagar Haveli</item>
+        <item sid="8">Daman and Diu</item>
+        <item sid="9">Delhi</item>
+        <item sid="10">Goa</item>
+        <item sid="11">Gujarat</item>
+        <item sid="12">Haryana</item>
+        <item sid="13">Himachal Pradesh</item>
+        <item sid="14">Jammu and Kashmir</item>
+        <item sid="15">Jharkhand</item>
+        <item sid="16">Karnataka</item>
+        <item sid="17">Kerala</item>
+        <item sid="18">Lakshadweep</item>
+        <item sid="19">Madhya Pradesh</item>
+        <item sid="20">Maharashtra</item>
+        <item sid="21">Manipur</item>
+        <item sid="22">Meghalaya</item>
+        <item sid="23">Mizoram</item>
+        <item sid="24">Nagaland</item>
+        <item sid="25">Orissa</item>
+        <item sid="26">Pondicherry</item>
+        <item sid="27">Punjab</item>
+        <item sid="28">Rajasthan</item>
+        <item sid="29">Sikkim</item>
+        <item sid="30">Tamil Nadu</item>
+        <item sid="31">Telangana</item>
+        <item sid="32">Tripura</item>
+        <item sid="33">Uttaranchal</item>
+        <item sid="34">Uttar Pradesh</item>
+        <item sid="35">West Bengal</item>
+    </string-array>
+</resources>
